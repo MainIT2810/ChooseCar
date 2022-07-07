@@ -1,0 +1,35 @@
+[
+    {
+      "id": 1,
+      "name": "Crystal Black",
+      "desc": "Pearl",
+      "price": 1000,
+      "img": "./products/black-car.jpg",
+      "icon": "./icons/icon-black.jpg"
+    },
+    {
+      "id": 2,
+      "name": "Modern Steel",
+      "desc": "Metallic",
+      "price": 1000,
+      "img": "./products/steel-car.jpg",
+      "icon": "./icons/icon-steel.jpg"
+    },
+    {
+      "id": 3,
+      "name": "Lunar Sliver",
+      "desc": "Metallic",
+      "price": 1000,
+      "img": "./products/silver-car.jpg",
+      "icon": "./icons/icon-silver.jpg"
+    },
+    {
+      "id": 4,
+      "name": "Rallye Red",
+      "desc":"Metallic",
+      "price": 1000,
+      "img": "./products/red-car.jpg",
+      "icon": "./icons/icon-red.jpg"
+    }
+  ]
+  
